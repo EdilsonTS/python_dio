@@ -13,13 +13,3 @@ Este projeto implementa um sistema bancário básico em Python, oferecendo funci
 ## Tecnologias
 
 -   Python
-
-## Como usar
-
-1.  Clone o repositório.
-2.  Execute o arquivo `banco.py`.
-3.  Siga as instruções no menu para interagir com o sistema.
-
-## Contribuição
-
-Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
